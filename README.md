@@ -8,7 +8,8 @@
 
 After many years of working in medicine, I decided to broaden my horizons and venture into data analysis. To achieve this, I completed the "Data Analyst" course from Yandex.
 
-# Языки и инструменты
+# Языки и инструменты/Languages & Tools
+
 
 - Python
 - SQL
@@ -16,7 +17,7 @@ After many years of working in medicine, I decided to broaden my horizons and ve
 - Tableau
 - Docker
 
-# Связаться со мной
+# Связаться со мной/Contact Me
 
 - [GitHub](https://github.com/Zyablow/Zyablow)
 - [LinkedIn](https://www.linkedin.com/in/vladimir-ziablov-118b5040/)
